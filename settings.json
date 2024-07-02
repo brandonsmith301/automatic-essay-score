@@ -1,0 +1,6 @@
+{
+  "TRAIN_CSV_PATH": "training_datasets/datamix_1.parquet",
+  "MODELS_DIR_PATH": "model",
+  "CONFIGS_DIR_PATH": "config",
+  "OOFS_DIR_PATH": "training_datasets"
+}
